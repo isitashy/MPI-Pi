@@ -1,2 +1,2 @@
 # MPI-Pi
-Estimate the integral of pi using rectangle divisions.
+Parallel Programming - Estimate the integral of pi using rectangle divisions.
